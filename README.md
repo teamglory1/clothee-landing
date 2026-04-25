@@ -1,2 +1,3 @@
-# clothee-landing
-AI powered fashion-tech landing page
+# Welcome to your Lovable project
+
+TODO: Document your project here
